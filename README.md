@@ -47,14 +47,6 @@ Python · DSA · Backend development
 - Building stronger foundations in data structures and algorithms
 - Turning ideas into polished, useful projects
 
-## Featured repositories
-
-Pin these on your GitHub profile:
-
-1. **Zenith** — your main project
-2. Your strongest React project
-3. One smaller polished project or portfolio project
-
 ---
 
 <p align="center">
